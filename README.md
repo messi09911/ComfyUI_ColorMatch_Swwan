@@ -1,3 +1,4 @@
+<img width="908" height="577" alt="image" src="https://github.com/user-attachments/assets/3003cb9e-5b77-4a87-ba16-a1ae88209c30" />
 # Color Match Swwan Update
 
 > A focused update to [ComfyUI_Swwan](https://github.com/aining2022/ComfyUI_Swwan) by aining2022 — adding the `Gradual Color Match` node to solve the end-frame color drift problem in `WanFirstLastFrameToVideo` workflows.
